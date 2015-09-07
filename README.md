@@ -30,7 +30,7 @@ TCC
       <td>Redes Ópticas Elásticas: Planejamento e Otimização</td>
       <td>CSBC 2012</td>
       <td></td>
-      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt="">/td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_2.md">doc</a></td>
     </tr>
     <tr>
