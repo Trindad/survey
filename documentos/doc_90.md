@@ -1,0 +1,12 @@
+## Resumo
+
+"In this article, we address the problem of static routing and spectrum allocation (RSA) in an elastic optical network
+(EON) with dedicated path protection (DPP) consideration. We formulate RSA-DPP as an Integer Linear Programming (ILP)
+problem. Since RSA is a difficult problem, we propose an Adaptive  Frequency Assignment with Dedicated Path Protection (AFA-
+  DPP) heuristic algorithm to provide near-optimal solutions to   the problem. We investigate the efficiency of AFA-DPP for a set
+    of network scenarios. Evaluation results show that the proposed  algorithm outperforms other reference algorithms.
+"
+
+
+## Anotações
+

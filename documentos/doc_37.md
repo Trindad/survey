@@ -1,0 +1,7 @@
+## Resumo
+
+Elastic optical networks (EONs) facilitate agile spectrum management in the optical layer. When coupling with software-defined networking, they function as software-defined EONs (SD-EONs) and provide service providers more freedom to customize their infrastructure dynamically. In this paper, we investigate how to overcome spectrum fragmentation in SD-EONs with OpenFlow-controlled online spectrum defragmentation (DF), and conduct system implementations to facilitate highly-efficient online DF. We first consider sequential DF, i.e., the scenario that involves a sequence of lightpath reconfigurations to progressively consolidate the spectrum utilization. We modify our previous DF algorithm to make sure that the reconfigurations can be performed in batches and the “make-before-break” scheme can be applied to all of them. The modified algorithm is implemented in an OpenFlow (OF) controller, and we design OF extensions to facilitate synchronous batch reconfiguration. Then, we further simplify the DF operations by designing and implementing parallel DF that can accomplish all the DF-related lightpath reconfigurations simultaneously. All these DF implementations are experimentally demonstrated in an SD-EON control plane testbed that consists of 14 stand-alone OF agents and one OF controller, which are all implemented based on high-performance Linux servers. The experimental results indicate that our OF-controlled online DF implementations perform well and can improve network performance in an efficient way.
+
+
+## Anotações
+

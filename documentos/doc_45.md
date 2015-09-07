@@ -1,0 +1,7 @@
+## Resumo
+
+Growing concerns regarding the scalability of current optical networks as well as IP-based networks are driving two important trends. One trend is a shift from the current rigid optical networks to spectrally efficient elastic optical networks with a flexible bandwidth and adaptive channel spacing. The other trend is IP traffic offloading to a lower layer yielding benefits that are potentially cost-effective and power-efficient. This article presents a novel multiflow optical transponder (OTP) that enables more efficient IP optical networking. A multiflow OTP allows client data flows that arrive from a single client interface to be mapped to multiple optical flows. In cooperation with the emerging spectrally efficient elastic optical path networking technology, multiflow OTPs can provide multiple optical connections from a single OTP to multiple OTPs. IP traffic offloading to an elastic optical path layer architecture and the effect of introducing multiflow OTPs (i.e., the potential reduction in the number of router interfaces and considerable potential for cost savings) are discussed. These benefits are brought about by increasing the number of directly connected router pairs while keeping router-to-optical-node interconnections simple. A novel optical virtual private line service based on multiflow OTPs that supports multiple optical connections from a single customer site to multiple customer sites with capacity adjustment is also discussed.
+
+
+## Anotações
+

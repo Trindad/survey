@@ -1,0 +1,7 @@
+## Resumo
+
+This paper presents a theoretical analysis of the performance of an orthogonal multiplexing data transmission scheme (parallel transmission scheme) subject to a number of degrading factors normally encountered by a practical operating system. The factors considered jointly are sampling time error, carrier phase offset, and nonideal phase characteristics of transmitting and receiving filters. Performance is measured by the familiar criterion of eye opening of the received data signal. A closed-form expression for the eye opening is obtained. It is shown that the lengthy nonlinear functions in the solution can be closely approximated by simple piecewise linear functions for parameter values of interest. The optimum settings of the sampling time and the carrier phase are determined for given filter phase distortion. Also, considering all factors, simple formulas are developed for computing interchannel interferences, intersymbol interference, and the resulting eye opening. Simple relationships between the eye opening and filter phase distortion are explored, and a concept of parametric eye is introduced to aid in filter design. An illustrative example is considered which shows that the impairment of the system performance is not excessive for a reasonable range of system design parameters.
+
+
+## Anotações
+

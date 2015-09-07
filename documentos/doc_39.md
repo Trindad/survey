@@ -1,0 +1,7 @@
+## Resumo
+
+Elastic Optical Network (EON) is expected as one of future networks in terms of spectrum flexibility. While Routing and Wavelength Assignment (RWA) problem is one of the key issues in traditional Wavelength Division Multiplexing (WDM) networks, Routing and Spectrum Assignment (RSA) problem has much impact on network performance in EONs. On the other hand, Data-Center (DC) traffic and/or mobile back-haul traffic keep on increasing. To deal with such forthcoming huge capacity of applications, Space Division Multiplexing (SDM) technologies, such as Multi-Core Fiber (MCF) and few-mode fiber, are intensively researched. From network perspective, this paper focuses on Routing, Spectrum and Core Assignment (RSCA) problem for future SDM-EON. Introducing multi-core fibers makes RSA problem more complex because fiber-core dimension is newly expanded. In addition, physical impairment caused by MCF must be taken into account. In this paper, first, the target RSCA problem is divided into the routing and SCA problems, and K-shortest path based pre-computation method is introduced as the routing solution. Next, according to whether MCF has inter-core crosstalk or not, we propose SCA methods with crosstalk awareness and with prioritized area concept, respectively. Finally, the paper evaluates the effectiveness of the proposed algorithms compared with representative ones.
+
+
+## Anotações
+

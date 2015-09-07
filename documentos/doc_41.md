@@ -1,0 +1,7 @@
+## Resumo
+
+This paper discusses new approaches of optical networking designed to meet exponentially growing demands of data traffic and to support future generations of cloud computing. Future cloud computing will require scalability and high-throughput supporting heterogeneous applications across vast geographic extent. We discuss both intra and inter data-center networking. For intra-datacenter networking, a single arrayed waveguide grating router based optical switch offers fully connected all-to-all parallel interconnection amongst thousands of racks to achieve high throughput and low-latency interconnection in a new flattened network topology. This new interconnection network named LION provides significant performance advantages over other electrical, optical, or hybrid interconnection networks in terms of available bandwidth per channel, end to end latency and throughput. For inter-datacenter networking, we investigate flexible bandwidth elastic optical networks designed to adaptively accommodate bursty and high capacity traffic between the data centers while supporting the traditional traffic in the background. Further, we demonstrate adaptive and real-time control of the spectral assignment and modulation format for each slice while achieving defragmentation to optimize the spectrum utilization under the dynamically varying traffic demands. The paper covers the intra- and inter-datacenter networking architecture, algorithm, control plane and simulation and experimental studies from the network testbed.
+
+
+## Anotações
+

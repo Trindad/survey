@@ -1,0 +1,7 @@
+## Resumo
+
+Elastic Optical Networking (EON) is a solution that promises to improve infrastructure utilisation by implementing flexible spectrum allocation with small spectrum slots instead of the rigid 50-GHz fixed grid of current DWDM deployments. This new EON flexible grid supports Bandwidth Variable Transponders (BVT) that can tune their bit rate and bandwidth dynamically with a trade off between reach and capacity. However, when BVTs need to transmit at low bit rates, part of their capacity is wasted. Therefore, the Sliceable Bandwidth Variable Transponder (SBVT) has been proposed, which can provide even higher levels of elasticity and efficiency to the network. SBVTs enable transmitting from one point to multiple destinations, changing the traffic rate to each destination and the number of destinations on demand. The aim of this work is to identify the target cost of 400 Gb/s and 1 Tb/s SBVTs to reduce, by at least 30%, transponder costs in a core network scenario. This target cost is calculated in relation to estimations for non-sliceable transponders of 400 Gb/s and 1 Tb/s. In light of our results, cost savings of 30% are feasible for 1 Tb/s transponders in the next nine years with a higher cost than non-sliceable transponders. Savings of 30% for 400 Gb/s case are possible in the short-term before 1 Tb/s SBVTs can appear in the market. Feasibility of such savings with a target cost higher than current non-sliceable transponder shows that SBVT can be a reality.
+
+
+## Anotações
+
