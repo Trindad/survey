@@ -5,5 +5,4 @@ Orthogonal frequency-division multiplexing (OFDM) is a modulation technology tha
 
 ## Anotações
 
-"Orthogonal frequency-division multiplexing (OFDM) is a modulation technology that has been widely
-adopted in many new and emerging broadband wireless and wireline communication systems."
+Repetido, já foi feito leitura índice 46.
