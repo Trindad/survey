@@ -13,3 +13,4 @@ performance when compared to several existing algorithms."
 
 ## Anotações
 
+"A key issue associated with SLICE is the routing, modulation and spectrum assignment (RMSA) problem which, for a given set of demands, tries to find a route and to assign a set of FSs with an appropriate modulation format to each demand, with the goal of minimizing the maximum FS allocated. There exist several similarities between RMSA and the the routing and wavelength assignment (RWA) problem for WDM networks...."
