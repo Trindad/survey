@@ -5,3 +5,4 @@ This paper presents a theoretical analysis of the performance of an orthogonal m
 
 ## Anotações
 
+Primeiro o autor apresenta a formulação matemática para orthogonal division multiplexing.
