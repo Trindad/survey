@@ -5,3 +5,4 @@ This study investigates the survivable traffic grooming problem for elastic opti
 
 ## Anotações
 
+"...This is especially beneficial for the increasing heterogeneity of today’s traffic...In optical networks, the failure of a network element (e.g., a fiber cut) can cause huge data loss, resulting in the failure of several lightpaths. This problem becomes even more compelling when lightpaths are migrated to high bit rates, such as 40, 100 Gbps and beyond, which are expected to be accommodated in elastic networks. Hence, protection in elastic networks is a critical issue, but so far it is an unexplored research field." Propoe um novo esquema com caminhos de backups compartilhados usando traffic grooming, ESPP.
