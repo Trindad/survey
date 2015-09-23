@@ -5,4 +5,5 @@ This paper presents a theoretical analysis of the performance of an orthogonal m
 
 ## Anotações
 
-Primeiro o autor apresenta a formulação matemática para orthogonal division multiplexing.
+Primeiro o autor apresenta a formulação matemática para orthogonal division multiplexing. "The performance is based on the eye opening of the received data signal, considering jointly sampling time error, demodulation carrier phase offset, and nonidal phase characteristics of all the transmitting and receiving filters ... Therefore, if the
+sampling time arid the demodulating carrier phase can be adjusted, it is not necessary to control the phase parameters of the receiving filters. It, is shown that the absolute maximum eye opening of unity is obtained if and only if the transmitting filter phase parameters sRt,isfy the simple requirement in (29)."
