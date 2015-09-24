@@ -4,4 +4,4 @@ In order to mitigate the mismatch of granularities between fixed grid and client
 
 
 ## Anotações
-
+"But in EONs, a guardband (GB) occupies the spectrum of the fiber link co-occupied by two adjacent lightpaths, and bandwidth variable (BV)-transponders consume more fixed power compared with ordinary ones..."
