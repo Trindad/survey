@@ -5,3 +5,4 @@ We propose a spectrally-efficient super-wavelength-path routing in SLICE by sele
 
 ## Anotações
 
+"...We have recently proposed a spectrum efficient and scalable optical network architecture called spectrum-sliced elastic optical path network (SLICE). In SLICE the necessary spectral resources are allocated to the end-to-end optical path according to the user demand and the actual traffic volume in a highly spectrum-efficient manner..."
