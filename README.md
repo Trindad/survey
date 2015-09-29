@@ -978,29 +978,32 @@ TCC
       <td><a href="http://www.researchgate.net/profile/Miroslaw_Klinkowski/publication/237020182_Offline_RSA_Algorithms_for_Elastic_Optical_Networks_with_Dedicated_Path_Protection_Consideration/links/0c96051af0d9c68ee4000000.pdf">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_120.md">doc</a></td>
+      <td></td>
     </tr>
-      <tr>
+    <tr>
       <td>Impact of transparent network constraints on capacity gain of elastic channel spacing</td>
       <td>IEEE</td>
       <td><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5875156&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5875156">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verdao.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_121.md">doc</a></td>
+      <td></td>
     </tr>
-    </tr>
+    <tr>
       <tr>
       <td>OFDM for Flexible High-Speed Optical Networks</td>
       <td>IEEE</td>
       <td><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5738313&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5738313">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verdao.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_122.md">doc</a></td>
+      <td></td>
     </tr>
-      </tr>
-      <tr>
+    <tr>
       <td>Survivable Transparent Flexible Optical WDM (FWDM)</td>
       <td>IEEE</td>
       <td><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5875577&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5875577">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_123.md">doc</a></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
 
   </tbody>
