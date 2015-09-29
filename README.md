@@ -34,7 +34,7 @@ TCC
       <td></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_2.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Roteamento e Alocação de Espectro em Redes Ópticas: O Conceito SLICE</td>
@@ -42,7 +42,7 @@ TCC
       <td><a href="http://sbrt.org.br/sbrt2012/publicacoes/97945_1.pdf">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_3.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>HEURÍSTICA PARA ALOCAÇÃO DE ESPECTRO EM REDES ÓPTICAS ELÁSTICAS BASEADA EM MEDIDAS DE FRAGMENTAÇÃO"</td>
@@ -98,7 +98,7 @@ TCC
       <td><a href="http://www.din.uem.br/sbpo/sbpo2013/pdf/arq0337.pdf">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/vermelho.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_10.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Sobrevivência de redes ópticas</td>
@@ -114,7 +114,7 @@ TCC
       <td><a href="http://www.bk.isy.liu.se/courses/optical/EON.pdf">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verdao.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_12.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Spectrally/Bitrate Flexible Optical Network Planning</td>
@@ -146,7 +146,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6374628&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6374628">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verdao.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_16.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Highly Survivable Restoration Scheme Employing Optical Bandwidth Squeezing in Spectrum-Sliced Elastic Optical Path (SLICE) Network</td>
@@ -386,7 +386,7 @@ TCC
       <td><a href="http://www.hit.bme.hu/~jakab/edu/litr/Core/WDM/Elastic_WDM_Core_06148192.pdf">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verdao.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_46.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Elastic optical transponder and regenerator: Toward energy and spectrum efficient optical transport networks</td>
@@ -442,7 +442,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6876447&pageNumber=2&searchWithin%5B%5D=Search_Index_Terms%3A.QT.elastic+optical+networks.QT.&newsearch=true">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_53.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Flexible high-order QAM transmitters for elastic optical networks</td>
@@ -594,7 +594,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6148192&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6148192">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verdao.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_72.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Survivable elastic optical networks: survey and perspective (inveted)</td>
@@ -618,7 +618,7 @@ TCC
       <td><a href="http://repositorio.ufpa.br/jspui/bitstream/2011/6769/1/Dissertacao_PoliticasAlocacaoEspectro.pdf">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_75.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Algoritmo de Roteamento e Atribuição de Espectro com Minização de fragmentação em redes óticas elásticas</td>
@@ -626,7 +626,7 @@ TCC
       <td></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_76.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Um novo esquema de proteção com economia de banda em Redes Óptica Elásticas</td>
@@ -658,7 +658,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5307468&navigation=1">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verdao.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_80.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>A Heuristic for Routing, Modulation and Spectrum Allocation in Spectrum Sliced Elastic Optical Path Network</td>
@@ -666,7 +666,7 @@ TCC
       <td><a href="http://people.uwplatt.edu/~fengg/paper/coml-6a.pdf">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_81.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>A study of the routing and spectrum allocation in spectrum-sliced Elastic Optical Path networks</td>
@@ -674,7 +674,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5934939&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F5888673%2F5934870%2F05934939.pdf%3Farnumber%3D5934939">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_82.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Traffic grooming in Spectrum-Elastic Optical Path Networks</td>
@@ -682,7 +682,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5875576&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5875576">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verdao.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_83.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Distance-adaptive super-wavelength routing in elastic optical path network (SLICE) with optical OFDM</td>
@@ -690,7 +690,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5621237&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F5610908%2F5621084%2F05621237.pdf%3Farnumber%3D5621237">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_84.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>A Theoretical Study of Performance of an Orthogonal Multiplexing Data Transmission Scheme</td>
@@ -698,7 +698,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=1089889&arSt=+529&ared=+540&arAuthor=+Chang%2C+R.%3B++Gibby%2C+R.&arNumber=1089889&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3FisNumber%3D23720%E2%88%8F%3DJNL%26arnumber%3D1089889%26arSt%3D%2B529%26ared%3D%2B540%26arAuthor%3D%2BChang%252C%2BR.%253B%2B%2BGibby%252C%2BR.%26arNumber%3D1089889">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_85.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Performance of an Efficient Parallel Data Transmission System</td>
@@ -714,7 +714,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5755639&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5755639">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_87.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Filtering characteristics of highly-spectrum efficient spectrum-sliced elastic optical path (SLICE) network</td>
@@ -738,7 +738,7 @@ TCC
       <td></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_90.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Filtering characteristics of highly-spectrum efficient spectrum-sliced elastic optical path (SLICE) network</td>
@@ -762,7 +762,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7203705&queryText=.QT.%20Elastic%20Optical%20Network.QT.&ranges=2015_2015_Year&searchField=Search_All">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_93.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Routing and Spectrum Allocation in Elastic Optical Networks: A Tutorial</td>
@@ -826,7 +826,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5588296&queryText=.QT.Spectrum-sliced%20Elastic%20Optical%20Path.QT.&newsearch=true">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_101.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>All-optical traffic grooming in elastic optical network</td>
@@ -834,7 +834,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6533128&queryText=.QT.%20Elastic%20Optical%20Network.QT.&newsearch=true">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_102.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Optical traffic grooming in OFDM-based elastic optical networks [Invited]</td>
@@ -842,7 +842,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6360165&queryText=.QT.%20Elastic%20Optical%20Network.QT.&pageNumber=2&newsearch=true&searchField=Search_All">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verdao.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_103.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Traffic and power-aware protection scheme in Elastic Optical Networks</td>
@@ -858,7 +858,7 @@ TCC
       <td><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6364104&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6364104">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_105.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Survivable traffic grooming in elastic optical networks — Shared path protection</td>
@@ -970,7 +970,7 @@ TCC
       <td><a href="http://www.vlopezalvarez.com/Profesional/Publications/Conferences/2013_ECOC_3.pdf">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_119.md">doc</a></td>
-      <td></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
     <tr>
       <td>Offline RSA Algorithms for Elastic Optical Networks with Dedicated Path Protection Consideration</td>
