@@ -1,14 +1,7 @@
 ## Resumo
 
 "Optical networks are subject to faults in links and nodes which can
-cause massive data loss. In the literature, many techniques have been proposed
-to deal with such failures in order to support continuous network operation. One
-of these techiniques defines p-Cycles which provide ring-type protection and
-the speed of restoration of meshes. Morever, Flexgrid networks emerged as a
-solution to deal with the diverse requirements of bandwidth. This paper presents
-two new algorithms to provide path protection using p-cycle path networks in
-Flexgrid networks. Our algorithms provide 100 % protection against single
-failure as well as against two failures.
+cause massive data loss. In the literature, many techniques have been proposed to deal with such failures in order to support continuous network operation. One of these techiniques defines p-Cycles which provide ring-type protection and the speed of restoration of meshes. Morever, Flexgrid networks emerged as a solution to deal with the diverse requirements of bandwidth. This paper presents two new algorithms to provide path protection using p-cycle path networks in Flexgrid networks. Our algorithms provide 100 % protection against single failure as well as against two failures.
 "
 
 
