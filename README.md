@@ -132,7 +132,7 @@ TCC
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_16.md">doc</a></td>
     </tr>
     <tr>
-      <td>Optical Grooming in OFDM-Based Elastic Optical Networks</td>
+      <td>Highly Survivable Restoration Scheme Employing Optical Bandwidth Squeezing in Spectrum-Sliced Elastic Optical Path (SLICE) Network</td>
       <td>OSA</td>
       <td><a href="https://www.osapublishing.org/abstract.cfm?uri=OFC-2009-OThO2">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
