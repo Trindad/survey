@@ -47,7 +47,7 @@ TCC
     <tr>
       <td>HEURÍSTICA PARA ALOCAÇÃO DE ESPECTRO EM REDES ÓPTICAS ELÁSTICAS BASEADA EM MEDIDAS DE FRAGMENTAÇÃO"</td>
       <td>Tese Mestrado</td>
-      <td></td>
+      <td><a href="http://mtc-m19.sid.inpe.br/col/sid.inpe.br/mtc-m19/2014/02.04.23.28/doc/publicacao.pdf?ibiurl.language=en">link</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_4.md">doc</a></td>
       <td></td>
