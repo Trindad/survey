@@ -1005,6 +1005,15 @@ TCC
       <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_123.md">doc</a></td>
       <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/OK.png" alt=""></td>
     </tr>
+       <tr>
+      <td>Benefits of Node Architecture Flexibility and Hitless
+Re-Grooming in Transport Networks</td>
+      <td>IEEE</td>
+      <td><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7225111&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7225111">link</a></td>
+      <td><img src="https://raw.githubusercontent.com/Trindad/survey/master/verde.png" alt=""></td>
+      <td><a href="https://github.com/Trindad/survey/blob/master/documentos/doc_124.md">doc</a></td>
+      <td></td>
+    </tr>
 
   </tbody>
 </table>
